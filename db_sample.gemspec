@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = DbSample::VERSION
   spec.authors       = ["Andrey"]
   spec.email         = ["railscode@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = "Load data for Rails App"
+  spec.summary       = "Load data for Rails App"
+  spec.homepage      = "https://github.com/vav/db_sample"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
