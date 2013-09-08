@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["railscode@gmail.com"]
   spec.description   = "Load data for Rails App"
   spec.summary       = "Load data for Rails App"
-  spec.homepage      = "https://github.com/vav/db_sample"
+  spec.homepage      = "https://github.com/st-granat/db_sample"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
